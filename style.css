@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.center{
+    justify-content: center;
+    text-align: center;
+    padding-top: 15%;
+    border: 1px solid white;
+    padding-bottom: 20%;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: white;
+}
+
+body{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 10%;
+    
+    background-image: url("ui.jpg");
+flex-wrap: wrap;
+}
+
+ .img{
+    display: flex;
+    flex-wrap: wrap;
+ }   
